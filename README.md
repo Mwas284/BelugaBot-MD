@@ -1,182 +1,78 @@
-<p align="center">
-<a href="https://github.com/ahil15"><img title="Author" src="https://img.shields.io/badge/CREATOR-Nᴏᴛ Sʟᴀꜱʜᴇʀ-black.svg?style=for-the-badge&logo=github"></a>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<div align="center" class= "main"> 
+  <img src="https://imgur.com/D60nScQ.jpg" width="300" height="300"/>
+  <h1>ＩＲＩＳ- ＭＤ</h1>
 
-<p align="center">  
-  <a href="https://mybeluga.vercel.app/">
-    <img alt="X-2.0" height="300" src="https://i.ibb.co/qYqxrt8/20231010-232658.png">
-    <h1 align="center">BelugaBot-MD</h1>
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/ahil15"><img title="Author" src="https://img.shields.io/badge/Beluga-BOT-black?style=for-the-badge&logo=twitter"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/ahil15?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ahil15?label=Followers&style=social"></a>
-<a href="https://github.com/ahil15/BelugaBot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ahil15/BelugaBot-MD?&style=social"></a>
-<a href="https://github.com/ahil15/BelugaBot-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/ahil15/BelugaBot-MD?style=social"></a>
-<a href="https://github.com/ahil15/BelugaBot-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ahil15/BelugaBot-MD?label=Watching&style=social"></a>
-</p>
+<a href="https://github.com/V-E-N-O-X"><img title="Creator" src="https://img.shields.io/badge/Creator-VENOX-red.svg?style=for-the-badge&logo=github"></a>
+<br>
+<a href="https://github.com/V-E-N-O-X?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/V-E-N-O-X?color=green&style=flat-square"></a>
+<a href="https://github.com/V-E-N-O-X/IRIS-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/V-E-N-O-X/IRIS-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/V-E-N-O-X/IRIS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/V-E-N-O-X/IRIS-MD?color=yellow&style=flat-square"></a>
+<div align="left"
+<br><br>
 
-#### Notice
-If you re-upload  anything from my ***REPOSITORY*** give me ***Credit*** Else I can Take Legal Action On You!⚠
+<p align="center"><img src="https://profile-counter.glitch.me/{IRIS-MD}/count.svg" alt="V-E-N-O-X :: Visitor's Count" /></p>
 
-***
+  
+## sᴇᴛᴜᴘ
 
-#### SETUP
-
-1. Fork the repo
+1. _Fork This Repo_
     <br>
-<a href="https://github.com/ahil15/BelugaBot-MD/fork"><img title="BelugaBotMD" src="https://img.shields.io/badge/FORK Beluga-MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href='https://github.com/V-E-N-O-X/IRIS-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/Fork_Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-2. Scan and Upload the `creds.json` to ***BELUGA-SESSION*** Folder
+2. 𝘚𝘤𝘢𝘯 𝘵𝘩𝘦 𝘘𝘙 𝘢𝘯𝘥 𝘤𝘰𝘱𝘺 𝘪𝘵
     <br>
-<a href='https://replit.com/@ahil15/BelugaBot?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://irisweb.alphasoft.org' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-#### DEPLOY STEPS
 
-1. Fork This Repository 
-2. Update [`config.js`]
-```js
-global.Owner = ["8801853262586"]; 
-global.OwnerNumber = ["8801853262586"];
-global.ownertag = ["8801853262586"];
-global.OwnerName = "Slasher";
-global.BotName = "BelugaBot";
-```
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
-#### DEPLOY TO HEROKU 
-
-1. If You don't have a account in Heroku. Create a account.
+1. 𝘊𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-2. Now Deploy
+2. 𝘕𝘰𝘸 𝘋𝘦𝘱𝘭𝘰𝘺
     <br>
-<a href='https://xlicheroku.vercel.app/deploy.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://irisweb.alphasoft.org/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-#### DEPLOY TO CODESPACE
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴇᴘʟɪᴛ
 
-3. If You don't have a account in Codespace. Create a account.
+3. 𝘊𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
     <br>
-<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+<a href='https://replit.com/signup' target="_blank"><img alt='replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
 
-4. Now Deploy
+4. 𝘕𝘰𝘸 𝘋𝘦𝘱𝘭𝘰𝘺
     <br>
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+<a href='https://replit.com/github/V-E-N-O-X/IRIS-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=orange'/></a>
 
-#### DEPLOY TO OKTETO
+### ᴅᴇᴘʟᴏʏ ᴛᴏ ʀᴀɪʟᴡᴀʏ
 
-5. If You don't have a account in Okteto. Create a account.
+5. 𝘊𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘢𝘤𝘤𝘰𝘶𝘯𝘵.
     <br>
-<a href='https://www.okteto.com/pricing/?plan=SaaS' target="_blank"><img alt='Okteto' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
+<a href='https://railway.app/login' target="_blank"><img alt='railway' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
-6. Now Deploy
+6. 𝘕𝘰𝘸 𝘋𝘦𝘱𝘭𝘰𝘺
     <br>
-<a href='https://xlicheroku.vercel.app/deploy-okt.html' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
+<a href='https://railway.app/template/12FD9C?referralCode=Wbbu1p' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway&logoColor=white'/></a>
+<br><br>
 
-#### DEPLOY TO RAILWAY
+### sᴜᴘᴘᴏʀᴛ ᴍᴇ
 
-7. If You don't have a account in Railway. Create a account.
-    <br>
-<a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+<a href="https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<br><br>
 
-8. Now Deploy
-    <br>
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
+  ### ᴛʜᴀɴᴋs ᴛᴏ
+- [ABRAHAM ❤️](https://github.com/abrahamdw882) <br>
+- [TygerGracia ❤](https://github.com/TygerGarcia) <br>
+- [X-Electra](https://github.com/X-Electra) for [X-Asena](https://github.com/X-Electra/X-Asena)
+<br><br>
 
-#### DEPLOY TO MONGENIUS
+### 📮s&ᴋ
 
-9. If You don't have a account in Mongenius. Create a account.
-    <br>
-<a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
-
-10. Now Deploy
-    <br>
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO COOLIFY
-
-11. If You don't have a account in Coolify. Create a account.
-    <br>
-<a href='https://app.coolify.io/register' target="_blank"><img alt='Coolify' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
-
-12. Now Deploy
-    <br>
-<a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO RENDER
-
-13. If You don't have a account in Render. Create a account.
-    <br>
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
-14. Now Deploy
-    <br>
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
----
-# `Guide`📕
-
-- [Full Deploy Explanation & Termux Deploy & Vps Deploy](https://github.com/ahil15/Xlicon-v2/blob/main/guide.md)
----
-
-## ```Support Me```
-<a href='https://www.instagram.com/sla.sher_' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=instagram' width="96.35" height="28"/></a></p>
-<a href='wa.me/8801975492880' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
-<a href='https://www.youtube.com/@infinite9452' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/SUBSCRIBE-h?color=black&style=for-the-badge&logo=youtube' width="96.35" height="28"/></a></p>
-</p>
-
-1. **Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/slashernolongerlive">
-  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
-</a>
-
-<h2 align="center"> Star the repo if u like it🌟
-</h2>
-
-
- 
- ## 🎯 Author 🎯
-  <div align="center">
-  
-| [![SlasherOfficial](https://github.com/ahil15.png?size=150)](https://github.com/ahil15) |
-|----|
-| [ N ᴏ ᴛ   S ʟ ᴀ ꜱ ʜ ᴇ ʀ ](https://github.com/ahil15) |
-|  Developer, Bug Fixes, Modules, updates |
-
-  </div>
-  
-   
-  </br> 
-
-<h2 align="center">  Reminder
-</h2>
-   
-- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
-- I am not responsible for banning your account.
-- Use at your own risk by keeping this warning in mind.
- 
-  
-  
-   ## `Special Thanks To`
-
-* [`📕 Kai..!!`](https://github.com/FantoX001)
-* [`📕 Guru`](https://github.com/Guru322)
-* [`📕 SuhailTech`](https://github.com/SuhailTechInfo)
-* [`📕 Hyno-IR`](https://github.com/HyNO-IR)
-* [`📕 ABHISHEK`](https://github.com/AbhishekSuresh2)
----------
-
-
-<h1 align="center">
-</h1>
-
-</p>
-<h1 align="center"> ✧ Thanks To Kai!!!✧
-</h1>
-
----
+- *I will only Assist You in Bot Deployment*
+- *Do not revamp my modules/plugins*
+- *This Bot is not 100% secure,So keep this in mind*
+- ***Regards [Venox-Senpai](https://github.com/V-E-N-O-X)***
 
   
+
